@@ -7,7 +7,7 @@ Solving some classical data analyst and data engineer tasks.
 
 /Task_DE_Fixerio works on querying the fixerio.io API.
 
-/Task_DE_WebScraping shows a Web Scraping (Crawler) example using beautiful soup.
+/Task_DE_WebScraping shows a Web Scraping (Crawler) example using beautifulsoup 4.
 
 /notes holds some notes on how to present the results.
 
